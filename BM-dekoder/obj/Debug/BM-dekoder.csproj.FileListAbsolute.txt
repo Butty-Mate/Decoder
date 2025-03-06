@@ -1,0 +1,10 @@
+C:\Users\buttymate\Desktop\20250305_ButtyMate\BM-dekoder\bin\Debug\BM-dekoder.exe.config
+C:\Users\buttymate\Desktop\20250305_ButtyMate\BM-dekoder\bin\Debug\BM-dekoder.exe
+C:\Users\buttymate\Desktop\20250305_ButtyMate\BM-dekoder\bin\Debug\BM-dekoder.pdb
+C:\Users\buttymate\Desktop\20250305_ButtyMate\BM-dekoder\obj\Debug\BM-dekoder.csproj.AssemblyReference.cache
+C:\Users\buttymate\Desktop\20250305_ButtyMate\BM-dekoder\obj\Debug\BM_dekoder.Form1.resources
+C:\Users\buttymate\Desktop\20250305_ButtyMate\BM-dekoder\obj\Debug\BM_dekoder.Properties.Resources.resources
+C:\Users\buttymate\Desktop\20250305_ButtyMate\BM-dekoder\obj\Debug\BM-dekoder.csproj.GenerateResource.cache
+C:\Users\buttymate\Desktop\20250305_ButtyMate\BM-dekoder\obj\Debug\BM-dekoder.csproj.CoreCompileInputs.cache
+C:\Users\buttymate\Desktop\20250305_ButtyMate\BM-dekoder\obj\Debug\BM-dekoder.exe
+C:\Users\buttymate\Desktop\20250305_ButtyMate\BM-dekoder\obj\Debug\BM-dekoder.pdb
