@@ -8,3 +8,13 @@ C:\Users\buttymate\Desktop\20250305_ButtyMate\BM-dekoder\obj\Debug\BM-dekoder.cs
 C:\Users\buttymate\Desktop\20250305_ButtyMate\BM-dekoder\obj\Debug\BM-dekoder.csproj.CoreCompileInputs.cache
 C:\Users\buttymate\Desktop\20250305_ButtyMate\BM-dekoder\obj\Debug\BM-dekoder.exe
 C:\Users\buttymate\Desktop\20250305_ButtyMate\BM-dekoder\obj\Debug\BM-dekoder.pdb
+D:\roulett_agyhalál\Decoder\BM-dekoder\bin\Debug\BM-dekoder.exe.config
+D:\roulett_agyhalál\Decoder\BM-dekoder\bin\Debug\BM-dekoder.exe
+D:\roulett_agyhalál\Decoder\BM-dekoder\bin\Debug\BM-dekoder.pdb
+D:\roulett_agyhalál\Decoder\BM-dekoder\obj\Debug\BM-dekoder.csproj.AssemblyReference.cache
+D:\roulett_agyhalál\Decoder\BM-dekoder\obj\Debug\BM_dekoder.Form1.resources
+D:\roulett_agyhalál\Decoder\BM-dekoder\obj\Debug\BM_dekoder.Properties.Resources.resources
+D:\roulett_agyhalál\Decoder\BM-dekoder\obj\Debug\BM-dekoder.csproj.GenerateResource.cache
+D:\roulett_agyhalál\Decoder\BM-dekoder\obj\Debug\BM-dekoder.csproj.CoreCompileInputs.cache
+D:\roulett_agyhalál\Decoder\BM-dekoder\obj\Debug\BM-dekoder.exe
+D:\roulett_agyhalál\Decoder\BM-dekoder\obj\Debug\BM-dekoder.pdb
