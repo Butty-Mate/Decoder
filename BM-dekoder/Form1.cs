@@ -12,7 +12,7 @@ namespace BM_dekoder
         const string UzenetVege = ".-+.";
         const string FileVege = ".-.-.+.+.";
         const string Elvalaszto = ".x.";
-
+        
         public Form1()
         {
             InitializeComponent();
@@ -22,6 +22,7 @@ namespace BM_dekoder
         private void Form1_Load(object sender, EventArgs e)
         {
             DataTable tabla = new DataTable();
+
             tabla.Columns.Add("Sorszám");
             tabla.Columns.Add("IP1");
             tabla.Columns.Add("IP2");
@@ -29,12 +30,14 @@ namespace BM_dekoder
             tabla.Columns.Add("Időbélyeg");
 
             dataGridView_send.DataSource = tabla;
+            dataGridView_send.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
         }
 
         private void DekodolEsMegjelenit()
         {
 
             DataTable tabla = new DataTable();
+
             tabla.Columns.Add("Sorszám");
             tabla.Columns.Add("IP1");
             tabla.Columns.Add("IP2");
@@ -77,6 +80,7 @@ namespace BM_dekoder
 
 
             dataGridView_send.DataSource = tabla;
+            dataGridView_send.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
         }
 
         private string BinarisbolIp(string binarisIp)
@@ -121,19 +125,22 @@ namespace BM_dekoder
                 MessageBox.Show("Hibás IP cím formátum!", "Hiba", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
+            else
+            {
+
+                string ujSor = $"xxx{idoBelyeg}.x.{uzenet}.x.{feladoIpBin}.x.{cimzettIpBin}.-+.";
 
 
-            string ujSor = $"xxx{idoBelyeg}.x.{uzenet}.x.{feladoIpBin}.x.{cimzettIpBin}.-+.";
+                File.AppendAllText("messages.log", ujSor + "\r\n");
 
 
-            File.AppendAllText("messages.log", ujSor + "\r\n");
+                ip1.Text = "";
+                ip2.Text = "";
+                message.Text = "";
 
+                MessageBox.Show("Üzenet elküldve!", "Siker", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
 
-            ip1.Text = "";
-            ip2.Text = "";
-            message.Text = "";
-
-            MessageBox.Show("Üzenet elküldve!", "Siker", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private string IpbolBinaris(string ip)
@@ -172,6 +179,21 @@ namespace BM_dekoder
         private void btn_dekod_Click(object sender, EventArgs e)
         {
             DekodolEsMegjelenit();
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void IP1_label_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void IP2_label_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
