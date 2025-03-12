@@ -18,3 +18,13 @@ D:\roulett_agyhalál\Decoder\BM-dekoder\obj\Debug\BM-dekoder.csproj.GenerateReso
 D:\roulett_agyhalál\Decoder\BM-dekoder\obj\Debug\BM-dekoder.csproj.CoreCompileInputs.cache
 D:\roulett_agyhalál\Decoder\BM-dekoder\obj\Debug\BM-dekoder.exe
 D:\roulett_agyhalál\Decoder\BM-dekoder\obj\Debug\BM-dekoder.pdb
+C:\Users\buttymate\Documents\GitHub\Decoder\BM-dekoder\bin\Debug\BM-dekoder.exe.config
+C:\Users\buttymate\Documents\GitHub\Decoder\BM-dekoder\bin\Debug\BM-dekoder.exe
+C:\Users\buttymate\Documents\GitHub\Decoder\BM-dekoder\bin\Debug\BM-dekoder.pdb
+C:\Users\buttymate\Documents\GitHub\Decoder\BM-dekoder\obj\Debug\BM-dekoder.csproj.AssemblyReference.cache
+C:\Users\buttymate\Documents\GitHub\Decoder\BM-dekoder\obj\Debug\BM_dekoder.Form1.resources
+C:\Users\buttymate\Documents\GitHub\Decoder\BM-dekoder\obj\Debug\BM_dekoder.Properties.Resources.resources
+C:\Users\buttymate\Documents\GitHub\Decoder\BM-dekoder\obj\Debug\BM-dekoder.csproj.GenerateResource.cache
+C:\Users\buttymate\Documents\GitHub\Decoder\BM-dekoder\obj\Debug\BM-dekoder.csproj.CoreCompileInputs.cache
+C:\Users\buttymate\Documents\GitHub\Decoder\BM-dekoder\obj\Debug\BM-dekoder.exe
+C:\Users\buttymate\Documents\GitHub\Decoder\BM-dekoder\obj\Debug\BM-dekoder.pdb
